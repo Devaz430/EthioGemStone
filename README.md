@@ -1,1 +1,1 @@
-# EthioGemStone a ecomerce website using laravel/PHP
+# EthioGemStone an ecomerce website using laravel/PHP
